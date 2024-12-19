@@ -1,4 +1,4 @@
-# Uncertainty-Aware Robust Information Fusion Attention Network for Brain Tumor Classification
+# Uncertainty-RIFA-Net: Uncertainty Aware Robust Information Fusion Attention Network for Brain Tumors Classification in MRI Images
 
 ## Abstract
 Malignant brain tumors pose a significant global threat, emphasizing the critical need for efficient diagnostic methods utilizing MRI. Manual analysis of MRI images is labor-intensive and subjective, highlighting the necessity for faster and automated effective methods.  
