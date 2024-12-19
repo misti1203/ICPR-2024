@@ -19,7 +19,7 @@ These results highlight the efficacy of our approach in brain tumor MRI image cl
 - **High Accuracy**: Achieved state-of-the-art accuracy on benchmark datasets for brain tumor classification.
 
 Proposed Uncertainty-RIFA-Net:
-![Proposed Method](images/fig_1.png "Uncertainty-RIFA-Net")
+![Proposed Method](Figure1.pdf "Uncertainty-RIFA-Net")
 ![Figure 1: Results](images/Figure1.png "Classification Results")
 
 ## Datasets
