@@ -18,6 +18,10 @@ These results highlight the efficacy of our approach in brain tumor MRI image cl
 - **Uncertainty Estimation**: Leveraged the ensemble Monte Carlo dropout strategy for reliable predictions.
 - **High Accuracy**: Achieved state-of-the-art accuracy on benchmark datasets for brain tumor classification.
 
+Proposed Uncertainty-RIFA-Net:
+![Proposed Method](images/fig_1.png "Uncertainty-RIFA-Net")
+![Figure 1: Results](images/Figure1.png "Classification Results")
+
 ## Datasets
 - **Cheng Dataset**  
 - **Nickparvar Dataset**
