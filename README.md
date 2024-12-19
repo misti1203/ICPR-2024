@@ -33,7 +33,7 @@ Proposed Uncertainty-RIFA-Net:
 | Nickparvar    | 98.48        |
 
 
-![Figure 2: Results](Figure2.pdf "Score-CAM")
+![Figure 2: Results](fig_explainable.pdf "Score-CAM")
 ---
 
 ## Citation
