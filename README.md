@@ -20,7 +20,7 @@ These results highlight the efficacy of our approach in brain tumor MRI image cl
 
 Proposed Uncertainty-RIFA-Net:
 ![Proposed Method](Figure1.pdf "Uncertainty-RIFA-Net")
-![Figure 1: Results](images/Figure1.png "Classification Results")
+
 
 ## Datasets
 - **Cheng Dataset**  
@@ -32,6 +32,8 @@ Proposed Uncertainty-RIFA-Net:
 | Cheng         | 98.37        |
 | Nickparvar    | 98.48        |
 
+
+![Figure 2: Results](Figure2.pdf "Score-CAM")
 ---
 
 ## Citation
